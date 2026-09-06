@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+
+langchain
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langchain-core
+
+chromadb
+sentence-transformers
+pypdf
+
+sentence-transformers
